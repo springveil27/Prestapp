@@ -1,0 +1,80 @@
+{
+  "@@locale": "es",
+
+  "prestApp": "PrestApp",
+
+  "editar": "Editar",
+  "eliminar": "Eliminar",
+  "cancelar": "Cancelar",
+  "confirmar": "Confirmar",
+  "disponible": "Disponible",
+  "prestado": "Prestado",
+  "descripcionLabel": "DESCRIPCIÓN",
+
+  "ajustesTitulo": "Ajustes",
+  "idioma": "Idioma",
+  "espanol": "Español",
+  "ingles": "Inglés",
+  "colorApp": "Color de la App",
+  "colorAppSubtitulo": "Elige tu tono de papel preferido.",
+  "modo": "Modo",
+  "claro": "Claro",
+  "oscuro": "Oscuro",
+
+  "objetoDisponible": "Objeto disponible ({count})",
+  "@objetoDisponible": {
+    "placeholders": { "count": { "type": "int" } }
+  },
+  "listaVacia": "Aún no tienes artículos.\nToca + para agregar uno.",
+
+  "detalleConfirmarDevolucionTitulo": "¿Marcar como devuelto?",
+  "detalleConfirmarDevolucionTexto": "{nombre} volverá a estar disponible.",
+  "@detalleConfirmarDevolucionTexto": {
+    "placeholders": { "nombre": { "type": "String" } }
+  },
+  "prestadoDesde": "Prestado a {nombre} desde el {fecha}",
+  "@prestadoDesde": {
+    "placeholders": {
+      "nombre": { "type": "String" },
+      "fecha": { "type": "String" }
+    }
+  },
+  "marcarComoDevuelto": "MARCAR COMO DEVUELTO",
+  "prestarEsteObjeto": "PRESTAR ESTE OBJETO",
+
+  "nombreObligatorio": "El nombre del objeto es obligatorio",
+  "nuevoObjetoTitulo": "Nuevo Objeto",
+  "agregarFoto": "Agregar foto",
+  "guardarObjeto": "Guardar Objeto",
+  "nombreObjetoHint": "Nombre del objeto",
+  "descripcionOpcionalHint": "Descripción (opcional)",
+
+  "eliminarObjetoTitulo": "¿Eliminar objeto?",
+  "accionNoSePuedeDeshacer": "Esta acción no se puede deshacer",
+  "editarObjetoTitulo": "Editar Objeto",
+  "cambiarFoto": "Cambiar foto",
+  "nombreObjetoLabel": "NOMBRE DEL OBJETO",
+  "guardarCambios": "GUARDAR CAMBIOS",
+  "eliminarObjetoBoton": "Eliminar Objeto",
+
+  "nombrePersonaObligatorio": "Escribe el nombre de la persona",
+  "propio": "Propio",
+  "prestarTitulo": "Prestar",
+  "aQuienSeLoPrestas": "¿A QUIÉN SE LO PRESTAS?",
+  "escribeUnNombreHint": "Escribe un nombre...",
+  "notasOpcional": "NOTAS (OPCIONAL)",
+  "notaHint": "Algún recordatorio o estado del objeto...",
+  "confirmarPrestamo": "Confirmar Préstamo",
+
+  "historialTitulo": "Historial",
+  "sinPrestamos": "Aún no has registrado préstamos.",
+
+  "prestadoAPersona": "Prestado a {nombre}",
+  "@prestadoAPersona": {
+    "placeholders": { "nombre": { "type": "String" } }
+  },
+  "devuelto": "DEVUELTO",
+  "noSePuedeEliminarPrestado": "No se puede eliminar un artículo que está prestado.",
+  "noSePuedeEditarPrestado": "No se puede editar un articulo que esta prestado",
+  "notaPrestado":"Nota de Prestamo:"
+}

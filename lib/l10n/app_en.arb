@@ -1,0 +1,66 @@
+{
+  "@@locale": "en",
+
+  "prestApp": "PrestApp",
+
+  "editar": "Edit",
+
+  "eliminar": "Delete",
+  "cancelar": "Cancel",
+  "confirmar": "Confirm",
+  "disponible": "Available",
+  "prestado": "Loaned",
+  "descripcionLabel": "DESCRIPTION",
+
+  "ajustesTitulo": "Settings",
+  "idioma": "Language",
+  "espanol": "Spanish",
+  "ingles": "English",
+  "colorApp": "App Color",
+  "colorAppSubtitulo": "Choose your favorite paper tone.",
+  "modo": "Mode",
+  "claro": "Light",
+  "oscuro": "Dark",
+
+  "objetoDisponible": "Available item ({count})",
+  "listaVacia": "You don't have any items yet.\nTap + to add one.",
+
+  "detalleConfirmarDevolucionTitulo": "Mark as returned?",
+  "detalleConfirmarDevolucionTexto": "{nombre} will become available again.",
+  "prestadoDesde": "Loaned to {nombre} since {fecha}",
+  "marcarComoDevuelto": "MARK AS RETURNED",
+  "prestarEsteObjeto": "LEND THIS ITEM",
+
+  "nombreObligatorio": "The item name is required",
+  "nuevoObjetoTitulo": "New Item",
+  "agregarFoto": "Add photo",
+  "guardarObjeto": "Save Item",
+  "nombreObjetoHint": "Item name",
+  "descripcionOpcionalHint": "Description (optional)",
+
+  "eliminarObjetoTitulo": "Delete item?",
+  "accionNoSePuedeDeshacer": "This action cannot be undone",
+  "editarObjetoTitulo": "Edit Item",
+  "cambiarFoto": "Change photo",
+  "nombreObjetoLabel": "ITEM NAME",
+  "guardarCambios": "SAVE CHANGES",
+  "eliminarObjetoBoton": "Delete Item",
+
+  "nombrePersonaObligatorio": "Enter the person's name",
+  "propio": "Own",
+  "prestarTitulo": "Lend",
+  "aQuienSeLoPrestas": "WHO ARE YOU LENDING IT TO?",
+  "escribeUnNombreHint": "Type a name...",
+  "notasOpcional": "NOTES (OPTIONAL)",
+  "notaHint": "A reminder or the item's condition...",
+  "confirmarPrestamo": "Confirm Loan",
+
+  "historialTitulo": "History",
+  "sinPrestamos": "You haven't recorded any loans yet.",
+
+  "prestadoAPersona": "Loaned to {nombre}",
+  "devuelto": "RETURNED",
+  "noSePuedeEliminarPrestado": "A borrowed item cannot be deleted.",
+  "noSePuedeEditarPrestado": "You cannot edit an article that is currently on loan",
+  "notaPrestado":"Loan Note:"
+}
