@@ -5,8 +5,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 class PreferenceService {
   static final PreferenceService _instance = PreferenceService._internal();
   factory PreferenceService() => _instance;
-  Pflutter upgrade
-  referenceService._internal();
+  PreferenceService._internal();
 
   static const _keyDarkMode = 'isDarkMode';
   static const _keyLanguage = 'language';
